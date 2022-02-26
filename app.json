@@ -1,5 +1,5 @@
 ﻿{
-    "name": "XrayHeroku",
+    "name": ",xnjfnj",
     "description": "xray websocket proxy on heroku",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/Header323/HerokuXray/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/Mzallng366/HerokuXray",
-    "repository": "https://github.com/Mzallng366/HerokuXray",
+    "website": "https://github.com/aadsyu/ncrcnk",
+    "repository": "https://github.com/aadsyu/ncrcnk",
     "stack": "container"
 }
